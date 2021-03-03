@@ -5,11 +5,9 @@
 ## Usage
 
 ```
-git clone https://github.com/octoherd/script-star-or-unstar.git
-$ npx @octoherd/cli \
+npx @octoherd/script-star-or-unstar \
   --octoherd-token 0123456789012345678901234567890123456789 \
-  script-star-or-unstar/script.js \
-  "octokit/*"
+  "octoherd/*"
 ```
 
 Add `--unstar` flag to unstar.

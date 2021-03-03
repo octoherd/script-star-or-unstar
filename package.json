@@ -12,8 +12,13 @@
     "@octoherd/octokit": "^2.2.0",
     "@octokit/openapi-types": "^2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@octoherd/cli": "^2.6.0"
+  },
   "exports": "./script.js",
+  "bin": {
+    "octoherd-script-star-or-unstar": "cli.js"
+  },
   "release": {
     "branches": [
       "main"
