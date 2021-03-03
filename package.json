@@ -13,7 +13,7 @@
     "@octokit/openapi-types": "^2.0.0"
   },
   "dependencies": {},
-  "exports": "./index.js",
+  "exports": "./script.js",
   "release": {
     "branches": [
       "main"
