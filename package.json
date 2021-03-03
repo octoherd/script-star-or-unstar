@@ -10,11 +10,11 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "@octoherd/cli": "^2.7.0"
+    "@octoherd/cli": "^2.7.1"
   },
   "exports": "./script.js",
   "bin": {
-    "octoherd-script-star-or-unstar": "cli.js"
+    "octoherd-script-star-or-unstar": "./cli.js"
   },
   "release": {
     "branches": [
