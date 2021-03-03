@@ -8,7 +8,7 @@
 git clone https://github.com/octoherd/script-star-or-unstar.git
 $ npx @octoherd/cli \
   --octoherd-token 0123456789012345678901234567890123456789 \
-  scripts/star-or-unstar/script.js \
+  script-star-or-unstar/script.js \
   "octokit/*"
 ```
 
