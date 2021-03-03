@@ -8,12 +8,9 @@
   ],
   "author": "Gregor Martynus (https://twitter.com/gr2m)",
   "license": "ISC",
-  "devDependencies": {
-    "@octoherd/octokit": "^2.2.0",
-    "@octokit/openapi-types": "^2.0.0"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "@octoherd/cli": "^2.6.0"
+    "@octoherd/cli": "^2.7.0"
   },
   "exports": "./script.js",
   "bin": {
