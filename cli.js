@@ -1,3 +1,6 @@
-import { resolve } from "path";
-process.argv.splice(2, 0, resolve("script.js"));
-await import("@octoherd/cli");
+#!/usr/bin/env node
+
+import { script } from "./script.js";
+import { run } from "@octoherd/cli/run";
+
+run(script);
