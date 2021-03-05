@@ -23,5 +23,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": "github:octoherd/script-star-or-unstar"
 }
