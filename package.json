@@ -16,11 +16,6 @@
   "bin": {
     "octoherd-script-star-or-unstar": "./cli.js"
   },
-  "release": {
-    "branches": [
-      "main"
-    ]
-  },
   "publishConfig": {
     "access": "public"
   },
