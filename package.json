@@ -17,7 +17,8 @@
     "octoherd-script-star-or-unstar": "./cli.js"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
   "repository": "github:octoherd/script-star-or-unstar"
 }
